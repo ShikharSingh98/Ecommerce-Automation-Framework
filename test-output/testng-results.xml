@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-18T12:20:05 IST" name="Ecommerce Automation Suite" finished-at="2023-02-18T12:20:56 IST" duration-ms="51553">
+    <groups>
+    </groups>
+    <test started-at="2023-02-18T12:20:05 IST" name="Ecommerce Automation Test Cases" finished-at="2023-02-18T12:20:56 IST" duration-ms="51553">
+      <class name="com.ecommerce.qa.testcases.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:47 IST" name="setup" finished-at="2023-02-18T12:20:50 IST" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithValidProduct()[pri:1, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:50 IST" name="verifySearchWithValidProduct" finished-at="2023-02-18T12:20:50 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:50 IST" name="tearDown" finished-at="2023-02-18T12:20:51 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:51 IST" name="setup" finished-at="2023-02-18T12:20:53 IST" duration-ms="2300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithInvalidProduct()[pri:2, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:53 IST" name="verifySearchWithInvalidProduct" finished-at="2023-02-18T12:20:53 IST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInvalidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:53 IST" name="tearDown" finished-at="2023-02-18T12:20:54 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:54 IST" name="setup" finished-at="2023-02-18T12:20:56 IST" duration-ms="2418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithoutAnyProduct()[pri:3, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:56 IST" name="verifySearchWithoutAnyProduct" finished-at="2023-02-18T12:20:56 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithoutAnyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Search@449a4f23]" started-at="2023-02-18T12:20:56 IST" name="tearDown" finished-at="2023-02-18T12:20:56 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.qa.testcases.Search -->
+      <class name="com.ecommerce.qa.testcases.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:05 IST" name="setup" finished-at="2023-02-18T12:20:10 IST" duration-ms="4636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithMandatoryFields()[pri:1, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:10 IST" name="verifyRegisteringAccountWithMandatoryFields" finished-at="2023-02-18T12:20:11 IST" duration-ms="993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:11 IST" name="tearDown" finished-at="2023-02-18T12:20:11 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:11 IST" name="setup" finished-at="2023-02-18T12:20:14 IST" duration-ms="2969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithAllFields()[pri:2, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:14 IST" name="verifyRegisteringAccountWithAllFields" finished-at="2023-02-18T12:20:15 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:15 IST" name="tearDown" finished-at="2023-02-18T12:20:15 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:15 IST" name="setup" finished-at="2023-02-18T12:20:18 IST" duration-ms="2691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithExistingEmailAddress()[pri:3, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:18 IST" name="verifyRegisteringAccountWithExistingEmailAddress" finished-at="2023-02-18T12:20:19 IST" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithExistingEmailAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:19 IST" name="tearDown" finished-at="2023-02-18T12:20:19 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:19 IST" name="setup" finished-at="2023-02-18T12:20:22 IST" duration-ms="2763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithoutFillingAnyDetails()[pri:4, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:22 IST" name="verifyRegisteringAccountWithoutFillingAnyDetails" finished-at="2023-02-18T12:20:22 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithoutFillingAnyDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Register@6fdbe764]" started-at="2023-02-18T12:20:22 IST" name="tearDown" finished-at="2023-02-18T12:20:22 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.qa.testcases.Register -->
+      <class name="com.ecommerce.qa.testcases.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:23 IST" name="setup" finished-at="2023-02-18T12:20:26 IST" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:26 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-02-18T12:20:27 IST" duration-ms="714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tony@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tonystark]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:27 IST" name="tearDown" finished-at="2023-02-18T12:20:27 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:27 IST" name="setup" finished-at="2023-02-18T12:20:29 IST" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:29 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-02-18T12:20:30 IST" duration-ms="571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[batman@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[batman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:30 IST" name="tearDown" finished-at="2023-02-18T12:20:30 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:30 IST" name="setup" finished-at="2023-02-18T12:20:33 IST" duration-ms="2647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:33 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-02-18T12:20:33 IST" duration-ms="616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[superman@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[superman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:33 IST" name="tearDown" finished-at="2023-02-18T12:20:34 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:34 IST" name="setup" finished-at="2023-02-18T12:20:36 IST" duration-ms="2752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInValidCredentials()[pri:2, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:36 IST" name="verifyLoginWithInValidCredentials" finished-at="2023-02-18T12:20:37 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:37 IST" name="tearDown" finished-at="2023-02-18T12:20:37 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:37 IST" name="setup" finished-at="2023-02-18T12:20:40 IST" duration-ms="3078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidEmailAndValidPassword()[pri:3, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:40 IST" name="verifyLoginWithInvalidEmailAndValidPassword" finished-at="2023-02-18T12:20:41 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmailAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:41 IST" name="tearDown" finished-at="2023-02-18T12:20:41 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:41 IST" name="setup" finished-at="2023-02-18T12:20:44 IST" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidEmailAndInvalidPassword()[pri:4, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:44 IST" name="verifyLoginWithValidEmailAndInvalidPassword" finished-at="2023-02-18T12:20:44 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidEmailAndInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:44 IST" name="tearDown" finished-at="2023-02-18T12:20:44 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:44 IST" name="setup" finished-at="2023-02-18T12:20:47 IST" duration-ms="2714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithoutProvidingCredentials()[pri:5, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:47 IST" name="verifyLoginWithoutProvidingCredentials" finished-at="2023-02-18T12:20:47 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithoutProvidingCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.Login@53fe15ff]" started-at="2023-02-18T12:20:47 IST" name="tearDown" finished-at="2023-02-18T12:20:47 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.qa.testcases.Login -->
+    </test> <!-- Ecommerce Automation Test Cases -->
+  </suite> <!-- Ecommerce Automation Suite -->
+</testng-results>
