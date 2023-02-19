@@ -12,7 +12,7 @@ import com.ecommerce.qa.pages.SearchPage;
 
 public class Search extends Base {
 
-	WebDriver driver;
+	public WebDriver driver;
 	HomePage homePage;
 	SearchPage searchPage;
 

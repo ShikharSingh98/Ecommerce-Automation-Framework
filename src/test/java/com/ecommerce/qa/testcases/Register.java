@@ -13,7 +13,7 @@ import com.ecommerce.qa.pages.RegisterPage;
 import com.ecommerce.qa.utils.Utilities;
 
 public class Register extends Base {
-	WebDriver driver;
+	public WebDriver driver;
 	RegisterPage registerPage;
 	AccountPage accountPage;
 

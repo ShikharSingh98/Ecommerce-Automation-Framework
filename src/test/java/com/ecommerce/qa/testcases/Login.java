@@ -17,7 +17,7 @@ import com.ecommerce.qa.utils.Utilities;
 
 public class Login extends Base {
 
-	WebDriver driver;
+	public WebDriver driver;
 	LoginPage loginPage;
 
 	public Login() {

@@ -3,17 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ecommerce.qa.testcases.Login">
+      <class name="com.ecommerce.qa.testcases.Search">
         <methods>
-          <include name="verifyLoginWithInValidCredentials"/>
+          <include name="verifySearchWithValidProduct"/>
           <include name="tearDown"/>
+          <include name="verifySearchWithoutAnyProduct"/>
           <include name="setup"/>
-          <include name="verifyLoginWithValidCredentials"/>
-          <include name="verifyLoginWithInvalidEmailAndValidPassword"/>
-          <include name="verifyLoginWithValidEmailAndInvalidPassword"/>
-          <include name="verifyLoginWithoutProvidingCredentials"/>
+          <include name="verifySearchWithInvalidProduct"/>
         </methods>
-      </class> <!-- com.ecommerce.qa.testcases.Login -->
+      </class> <!-- com.ecommerce.qa.testcases.Search -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
