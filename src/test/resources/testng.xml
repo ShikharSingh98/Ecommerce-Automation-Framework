@@ -6,9 +6,9 @@
 	</listeners>
 	<test name="Ecommerce Automation Test Cases">
 		<classes>
-			<class name="com.ecommerce.qa.testcases.Register" />
-			<class name="com.ecommerce.qa.testcases.Login" /> 
-			<class name="com.ecommerce.qa.testcases.Search" />
+			<class name="com.ecommerce.qa.testcases.RegisterTest" />
+			<class name="com.ecommerce.qa.testcases.LoginTest" /> 
+			<class name="com.ecommerce.qa.testcases.SearchTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

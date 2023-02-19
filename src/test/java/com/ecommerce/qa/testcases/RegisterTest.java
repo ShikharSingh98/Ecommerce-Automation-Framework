@@ -12,12 +12,12 @@ import com.ecommerce.qa.pages.HomePage;
 import com.ecommerce.qa.pages.RegisterPage;
 import com.ecommerce.qa.utils.Utilities;
 
-public class Register extends Base {
+public class RegisterTest extends Base {
 	public WebDriver driver;
 	RegisterPage registerPage;
 	AccountPage accountPage;
 
-	public Register() {
+	public RegisterTest() {
 		super();
 	}
 

@@ -10,13 +10,13 @@ import com.ecommerce.qa.base.Base;
 import com.ecommerce.qa.pages.HomePage;
 import com.ecommerce.qa.pages.SearchPage;
 
-public class Search extends Base {
+public class SearchTest extends Base {
 
 	public WebDriver driver;
 	HomePage homePage;
 	SearchPage searchPage;
 
-	public Search() {
+	public SearchTest() {
 		super();
 	}
 

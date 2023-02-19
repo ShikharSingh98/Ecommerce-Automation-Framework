@@ -15,12 +15,12 @@ import com.ecommerce.qa.pages.HomePage;
 import com.ecommerce.qa.pages.LoginPage;
 import com.ecommerce.qa.utils.Utilities;
 
-public class Login extends Base {
+public class LoginTest extends Base {
 
 	public WebDriver driver;
 	LoginPage loginPage;
 
-	public Login() {
+	public LoginTest() {
 		super();
 	}
 
